@@ -1,0 +1,76 @@
+product_id,product_name,category,subcategory,unit_price,unit_cost
+1,Laptop 1,Technology,Laptop,457.55,318.64
+2,Laptop 2,Technology,Laptop,409.55,274.29
+3,Laptop 3,Technology,Laptop,402.3,225.94
+4,Laptop 4,Technology,Laptop,402.3,290.96
+5,Laptop 5,Technology,Laptop,539.39,298.89
+6,Tablet 1,Technology,Tablet,478.02,355.64
+7,Tablet 2,Technology,Tablet,384.51,225.46
+8,Tablet 3,Technology,Tablet,461.02,270.47
+9,Tablet 4,Technology,Tablet,438.29,278.92
+10,Tablet 5,Technology,Tablet,275.36,167.49
+11,Monitor 1,Technology,Monitor,343.43,208.95
+12,Monitor 2,Technology,Monitor,443.76,276.58
+13,Monitor 3,Technology,Monitor,530.8,313.14
+14,Monitor 4,Technology,Monitor,402.93,263.05
+15,Monitor 5,Technology,Monitor,378.84,254.39
+16,Phone 1,Technology,Phone,428.39,250.22
+17,Phone 2,Technology,Phone,374.59,257.29
+18,Phone 3,Technology,Phone,397.95,253.9
+19,Phone 4,Technology,Phone,418.98,233.32
+20,Phone 5,Technology,Phone,340.04,248.86
+21,Accessories 1,Technology,Accessories,482.18,295.26
+22,Accessories 2,Technology,Accessories,327.7,214.32
+23,Accessories 3,Technology,Accessories,319.59,237.75
+24,Accessories 4,Technology,Accessories,434.88,306.6
+25,Accessories 5,Technology,Accessories,475.83,270.13
+26,Chair 1,Furniture,Chair,185.55,109.33
+27,Chair 2,Furniture,Chair,176.25,110.64
+28,Chair 3,Furniture,Chair,170.24,102.87
+29,Chair 4,Furniture,Chair,165.08,100.07
+30,Chair 5,Furniture,Chair,214.25,141.09
+31,Desk 1,Furniture,Desk,190.5,107.62
+32,Desk 2,Furniture,Desk,167.52,125.2
+33,Desk 3,Furniture,Desk,158.07,87.11
+34,Desk 4,Furniture,Desk,199.82,142.49
+35,Desk 5,Furniture,Desk,213.4,150.29
+36,Table 1,Furniture,Table,210.17,118.71
+37,Table 2,Furniture,Table,152.81,110.42
+38,Table 3,Furniture,Table,169.98,114.68
+39,Table 4,Furniture,Table,164.47,100.69
+40,Table 5,Furniture,Table,173.98,107.0
+41,Shelf 1,Furniture,Shelf,206.33,150.09
+42,Shelf 2,Furniture,Shelf,223.94,144.32
+43,Shelf 3,Furniture,Shelf,191.72,134.62
+44,Shelf 4,Furniture,Shelf,159.1,105.36
+45,Shelf 5,Furniture,Shelf,178.84,117.06
+46,Lamp 1,Furniture,Lamp,230.69,146.61
+47,Lamp 2,Furniture,Lamp,182.82,112.05
+48,Lamp 3,Furniture,Lamp,170.31,110.99
+49,Lamp 4,Furniture,Lamp,172.88,109.27
+50,Lamp 5,Furniture,Lamp,191.57,134.31
+51,Paper 1,Office Supplies,Paper,29.91,22.01
+52,Paper 2,Office Supplies,Paper,31.84,22.66
+53,Paper 3,Office Supplies,Paper,40.77,28.98
+54,Paper 4,Office Supplies,Paper,37.07,21.77
+55,Paper 5,Office Supplies,Paper,35.61,25.34
+56,Storage 1,Office Supplies,Storage,41.1,29.97
+57,Storage 2,Office Supplies,Storage,30.58,18.21
+58,Storage 3,Office Supplies,Storage,32.94,20.93
+59,Storage 4,Office Supplies,Storage,36.87,20.33
+60,Storage 5,Office Supplies,Storage,36.64,23.89
+61,Writing 1,Office Supplies,Writing,26.08,14.97
+62,Writing 2,Office Supplies,Writing,32.35,19.98
+63,Writing 3,Office Supplies,Writing,33.98,22.21
+64,Writing 4,Office Supplies,Writing,37.55,25.93
+65,Writing 5,Office Supplies,Writing,36.62,27.19
+66,Binders 1,Office Supplies,Binders,34.53,20.73
+67,Binders 2,Office Supplies,Binders,22.91,13.91
+68,Binders 3,Office Supplies,Binders,34.83,19.41
+69,Binders 4,Office Supplies,Binders,35.38,19.82
+70,Binders 5,Office Supplies,Binders,50.52,30.6
+71,Art Supplies 1,Office Supplies,Art Supplies,33.79,19.56
+72,Art Supplies 2,Office Supplies,Art Supplies,36.9,23.91
+73,Art Supplies 3,Office Supplies,Art Supplies,42.2,25.22
+74,Art Supplies 4,Office Supplies,Art Supplies,39.74,27.64
+75,Art Supplies 5,Office Supplies,Art Supplies,43.84,29.67
